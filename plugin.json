@@ -1,0 +1,13 @@
+{
+  "name": "SMB Download",
+  "author": "Your Name",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "utility"
+    ],
+    "description": "Download game folders from a configurable SMB share and add them to Steam.",
+    "image": ""
+  }
+}
